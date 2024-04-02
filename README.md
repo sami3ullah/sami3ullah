@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi I am Muhammad Samiullah 👋
 
 <!--
 **sami3ullah/sami3ullah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+A dynamic Software Engineer with over 5 years of experience in crafting innovative web applications. My expertise lies in utilizing cutting-edge technologies, including Node, React, Typescript, JavaScript, SQL, and NoSQL, to create immersive experiences that drive user engagement and exceed client expectations. I am deeply passionate about leveraging technology to solve complex real-world problems.
+
+- [My Portfolio](https://www.samidev.me)
+- [LinkedIn](https://www.linkedin.com/in/samidev/)
+- [Twitter](https://twitter.com/samidev_)
